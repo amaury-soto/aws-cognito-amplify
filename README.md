@@ -20,4 +20,6 @@ With this we can simulate a flow similar to the one used today by TaDa Delivery.
 
 [![Screen-Shot-2022-10-05-at-9-58-11-AM.png](https://i.postimg.cc/qvY6kRGy/Screen-Shot-2022-10-05-at-9-58-11-AM.png)](https://postimg.cc/K1P8fmw8)
 
+[![Screen-Shot-2022-10-05-at-10-04-19-AM.png](https://i.postimg.cc/pT1LBc18/Screen-Shot-2022-10-05-at-10-04-19-AM.png)](https://postimg.cc/2bhYkGY8)
+
 [![Screen-Shot-2022-10-05-at-10-03-01-AM.png](https://i.postimg.cc/zXvfVNvj/Screen-Shot-2022-10-05-at-10-03-01-AM.png)](https://postimg.cc/svFzNtpQ)
