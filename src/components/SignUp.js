@@ -36,7 +36,7 @@ export default function SignUp(props) {
       });
       props.onStateChange('confirmSignUp', user);
     } catch (error) {
-      console.log('errror', error);
+      console.log('error', error);
       setError(error.message);
     }
   }
